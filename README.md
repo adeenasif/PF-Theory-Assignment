@@ -12,17 +12,6 @@ This repository contains my Programming Fundamentals (PF) Theory Assignment as p
 | Q5.cpp | Implementation of pointer operations and memory management. |
 
 
-Concepts Covered:
-
-Recursion
-
-Structures & Nested Structures
-
-2D Arrays
-
-Functions
-
-Pointers
 
 How to Use
 
