@@ -3,31 +3,14 @@ Repository Overview
 
 This repository contains my Programming Fundamentals (PF) Theory Assignment as part of my coursework. It includes theoretical explanations, solved assignment questions, and relevant concepts related to programming fundamentals.
 
-Files
+| File  | Description |
+|-------|------------|
+| Q1.cpp | Implementation of recursion concepts. |
+| Q2.cpp | Demonstrates usage of structures and nested structures. |
+| Q3.cpp | Implementation of operations on 2D arrays. |
+| Q4.cpp | Functions and their usage in modular programming. |
+| Q5.cpp | Implementation of pointer operations and memory management. |
 
-File
-
-Description
-
-Q1.cpp
-
-Implementation of recursion concepts.
-
-Q2.cpp
-
-Demonstrates usage of structures and nested structures.
-
-Q3.cpp
-
-Implementation of operations on 2D arrays.
-
-Q4.cpp
-
-Functions and their usage in modular programming.
-
-Q5.cpp
-
-Implementation of pointer operations and memory management.
 
 Concepts Covered:
 
