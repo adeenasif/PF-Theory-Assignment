@@ -1,5 +1,6 @@
 # PF-Theory-Assignment
-Repository Overview
+
+###Repository Overview
 
 This repository contains my Programming Fundamentals (PF) Theory Assignment as part of my coursework. It includes theoretical explanations, solved assignment questions, and relevant concepts related to programming fundamentals.
 
@@ -13,7 +14,7 @@ This repository contains my Programming Fundamentals (PF) Theory Assignment as p
 
 
 
-How to Use
+##How to Use
 
 Clone the repository:
 
@@ -25,7 +26,7 @@ cd PF-Theory-Assignment
 
 Open the files using any text editor or an IDE to explore the solutions and concepts.
 
-Prerequisites
+##Prerequisites
 
 To understand and run the provided code snippets, basic knowledge of C and C++ is required. Ensure you have a C/C++ compiler installed, such as:
 
